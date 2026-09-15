@@ -2,10 +2,10 @@
 
 Proyecto base desde cero para la aplicación multiplataforma de la Biblioteca Central.
 
-## Ramas de trabajo
+## Ramas
 
 - `main`: proyecto base limpio.
-- `feature/clean-mvvm`: rama destinada al desarrollo de la práctica.
+- `feature/clean-mvvm`: rama para desarrollar la práctica.
 
 ## Configuración inicial
 
@@ -18,14 +18,14 @@ Proyecto base desde cero para la aplicación multiplataforma de la Biblioteca Ce
 
 Esta base contiene únicamente la configuración y la estructura inicial. La lógica del dominio, casos de uso, repositorios, ViewModels, pantallas completas y pruebas deben implementarse durante el desarrollo.
 
-## Abrir el proyecto
+## Abrir
 
 1. Clona el repositorio.
 2. Abre la carpeta en Android Studio.
 3. Sincroniza Gradle.
-4. Cambia a `feature/clean-mvvm` antes de comenzar la implementación.
+4. Cambia a `feature/clean-mvvm`.
 
-## Comandos de verificación
+## Verificación
 
 ```bash
 ./gradlew :androidApp:assembleDebug

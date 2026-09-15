@@ -12,7 +12,7 @@ build/
 # Kotlin Multiplatform
 .kotlin/
 
-# Local configuration
+# Local
 local.properties
 
 # OS
